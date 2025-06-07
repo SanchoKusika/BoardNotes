@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120"><svg width="120.000000" height="120.000000" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs></defs>
+	<rect id="SvgjsRect1163" rx="20.000000" width="120.000000" height="120.000000" fill="#C4C4C4" fill-opacity="1.000000"></rect>
+	<path id="SvgjsPath1162" d="M20 0L40 0L40 120L20 120C8.95 120 0 111.04 0 100L0 20C0 8.95 8.95 0 20 0Z" fill="#FFD956" fill-opacity="1.000000" fill-rule="evenodd"></path>
+	<rect id="SvgjsRect1161" x="40.000000" width="40.000000" height="120.000000" fill="#6988FF" fill-opacity="1.000000"></rect>
+	<path id="SvgjsPath1160" d="M80 0L100 0C111.04 0 120 8.95 120 20L120 100C120 111.04 111.04 120 100 120L80 120L80 0Z" fill="#39BE00" fill-opacity="1.000000" fill-rule="evenodd"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
